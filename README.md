@@ -1,6 +1,6 @@
-# Kaggle competetion: Detecting insults
+#  Insults Detection
 
-Here I describe my approach for solving [Kaggle competetion](http://www.kaggle.com/c/detecting-insults-in-social-commentary) task. My solution landed at the #2 place.
+Here I describe my approach for solving [Kaggle competetion](http://www.kaggle.com/c/detecting-insults-in-social-commentary) task. 
 
 ## General approach
 
